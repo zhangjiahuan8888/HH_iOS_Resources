@@ -11,3 +11,5 @@ MVVMFramework-Swift       https://github.com/lovemo/MVVMFramework-Swift
 黑马、小码哥、传智  https://github.com/zhouhuanqiang/LearningIOS
 
 新浪微博iOS客户端架构与优化之路 http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7#rd
+
+微信读书团队博客    http://wereadteam.github.io
