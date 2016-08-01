@@ -5,3 +5,5 @@ iOS资源大全中文版         https://github.com/jobbole/awesome-ios-cn
 MVVMFramework             https://github.com/lovemo/MVVMFramework
   
 MVVMFramework-Swift       https://github.com/lovemo/MVVMFramework-Swift
+
+仿城觅                    https://github.com/ZhongTaoTian/WNXHuntForCity
