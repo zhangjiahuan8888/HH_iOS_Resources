@@ -19,3 +19,5 @@ MVVMFramework-Swift       https://github.com/lovemo/MVVMFramework-Swift
 Code Review   http://reviewcode.cn
 
 iOS开源代码解析  https://github.com/Draveness/iOS-Source-Code-Analyze
+
+GitHub上史上最全的iOS开源项目分类汇总   http://blog.csdn.net/arodung/article/details/50846546
