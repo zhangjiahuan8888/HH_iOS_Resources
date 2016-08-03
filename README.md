@@ -27,3 +27,5 @@ blog.callmewhy.com   http://blog.callmewhy.com/archives/page/3/
 iOS应用架构谈casatwy.com   http://casatwy.com
 
 阿里技术沙龙    http://club.alibabatech.org/index.htm
+
+腾讯web团队 http://www.alloyteam.com
